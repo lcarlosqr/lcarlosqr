@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## 🌱 I’m currently learning Python in Cisco Academy
+## 📫 How to reach me: lcarlosqr24@gmail.com
+## My Linkedin: https://www.linkedin.com/in/luis-carlos-quispe-ruiz/
 <!--
 **lcarlosqr/lcarlosqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
